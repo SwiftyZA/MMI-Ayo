@@ -1,0 +1,17 @@
+C:\Users\neils\source\repos\MMI\ConversionAPI\ConversionAPI\bin\Debug\netcoreapp2.1\ConversionAPI.deps.json
+C:\Users\neils\source\repos\MMI\ConversionAPI\ConversionAPI\bin\Debug\netcoreapp2.1\ConversionAPI.runtimeconfig.json
+C:\Users\neils\source\repos\MMI\ConversionAPI\ConversionAPI\bin\Debug\netcoreapp2.1\ConversionAPI.runtimeconfig.dev.json
+C:\Users\neils\source\repos\MMI\ConversionAPI\ConversionAPI\bin\Debug\netcoreapp2.1\ConversionAPI.dll
+C:\Users\neils\source\repos\MMI\ConversionAPI\ConversionAPI\bin\Debug\netcoreapp2.1\ConversionAPI.pdb
+C:\Users\neils\source\repos\MMI\ConversionAPI\ConversionAPI\bin\Debug\netcoreapp2.1\ConversionService.dll
+C:\Users\neils\source\repos\MMI\ConversionAPI\ConversionAPI\bin\Debug\netcoreapp2.1\ConversionService.pdb
+C:\Users\neils\source\repos\MMI\ConversionAPI\ConversionAPI\obj\Debug\netcoreapp2.1\ConversionAPI.csprojAssemblyReference.cache
+C:\Users\neils\source\repos\MMI\ConversionAPI\ConversionAPI\obj\Debug\netcoreapp2.1\ConversionAPI.csproj.CoreCompileInputs.cache
+C:\Users\neils\source\repos\MMI\ConversionAPI\ConversionAPI\obj\Debug\netcoreapp2.1\ConversionAPI.RazorAssemblyInfo.cache
+C:\Users\neils\source\repos\MMI\ConversionAPI\ConversionAPI\obj\Debug\netcoreapp2.1\ConversionAPI.RazorAssemblyInfo.cs
+C:\Users\neils\source\repos\MMI\ConversionAPI\ConversionAPI\obj\Debug\netcoreapp2.1\ConversionAPI.AssemblyInfoInputs.cache
+C:\Users\neils\source\repos\MMI\ConversionAPI\ConversionAPI\obj\Debug\netcoreapp2.1\ConversionAPI.AssemblyInfo.cs
+C:\Users\neils\source\repos\MMI\ConversionAPI\ConversionAPI\obj\Debug\netcoreapp2.1\ConversionAPI.RazorTargetAssemblyInfo.cache
+C:\Users\neils\source\repos\MMI\ConversionAPI\ConversionAPI\obj\Debug\netcoreapp2.1\ConversionAPI.csproj.CopyComplete
+C:\Users\neils\source\repos\MMI\ConversionAPI\ConversionAPI\obj\Debug\netcoreapp2.1\ConversionAPI.dll
+C:\Users\neils\source\repos\MMI\ConversionAPI\ConversionAPI\obj\Debug\netcoreapp2.1\ConversionAPI.pdb

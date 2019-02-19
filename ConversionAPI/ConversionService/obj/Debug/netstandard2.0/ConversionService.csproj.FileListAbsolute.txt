@@ -1,0 +1,8 @@
+C:\Users\neils\source\repos\MMI\ConversionAPI\ConversionService\bin\Debug\netstandard2.0\ConversionService.deps.json
+C:\Users\neils\source\repos\MMI\ConversionAPI\ConversionService\bin\Debug\netstandard2.0\ConversionService.dll
+C:\Users\neils\source\repos\MMI\ConversionAPI\ConversionService\bin\Debug\netstandard2.0\ConversionService.pdb
+C:\Users\neils\source\repos\MMI\ConversionAPI\ConversionService\obj\Debug\netstandard2.0\ConversionService.csproj.CoreCompileInputs.cache
+C:\Users\neils\source\repos\MMI\ConversionAPI\ConversionService\obj\Debug\netstandard2.0\ConversionService.AssemblyInfoInputs.cache
+C:\Users\neils\source\repos\MMI\ConversionAPI\ConversionService\obj\Debug\netstandard2.0\ConversionService.AssemblyInfo.cs
+C:\Users\neils\source\repos\MMI\ConversionAPI\ConversionService\obj\Debug\netstandard2.0\ConversionService.dll
+C:\Users\neils\source\repos\MMI\ConversionAPI\ConversionService\obj\Debug\netstandard2.0\ConversionService.pdb
